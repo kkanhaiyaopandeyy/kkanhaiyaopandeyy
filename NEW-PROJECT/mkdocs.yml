@@ -1,0 +1,9 @@
+site_name: Commands
+site_url: https://commands.com
+nav:
+     - Home: index.md
+     - Response: responsedefi.md
+     - Elements: elements.md
+     - Configuration: config.md
+     
+theme: readthedocs
